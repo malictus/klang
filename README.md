@@ -8,6 +8,8 @@ Klang was written in Java in 2009, and, while it works, it covers only a handful
 IMPORTANT: Since this program edits files directly it is important to BACK UP ALL FILES before
 opening them with Klang!
 
+![Screenshot](screenshot.png?raw=true)
+
 Supported File Types
 --------------------
 * RIFF (including WAV, AVI, etc.)
