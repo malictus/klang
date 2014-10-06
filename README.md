@@ -36,7 +36,7 @@ Generic RIFF Chunks
 * LIST
 * RIFF
 * RIFX
-* 
+
 Supported Chunk Types (Partial or no editing)
 ---------------------------------------------
 AIFF Files
